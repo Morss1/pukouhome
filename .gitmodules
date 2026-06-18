@@ -1,0 +1,3 @@
+[submodule "codegraph"]
+	path = third_party/codegraph
+	url = https://github.com/Morss1/codegraph.git
